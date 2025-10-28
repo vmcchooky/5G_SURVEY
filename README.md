@@ -2,7 +2,7 @@
 
 * **Kiến trúc Internet**
 
-* **Sinh viên thực hiện:** Võ Mạnh Cường
+* **Người thực hiện:** Võ Mạnh Cường AKA Chooky
 
 ---
 
