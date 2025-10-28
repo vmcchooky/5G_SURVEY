@@ -30,4 +30,3 @@ Báo cáo đi sâu vào các khía cạnh kỹ thuật và thực tiễn của 5
     * [Nhấn vào đây để xem file `5GSurvey.pdf`](./5GSurvey.pdf)
 * **📽️ Slide thuyết trình (Canva):**
     * [Nhấn vào đây để xem slides](https://www.canva.com/design/DAGiiv_9U64/LpHqOioFcelCuFieM_Tp6w/view) 
-    *(Lưu ý: Đã đổi link sang chế độ /view để người xem xem dễ dàng hơn)*
